@@ -1,4 +1,4 @@
 ---
 dist: focal
 language: ruby 
-script: echo "test"
+script: echo "hello"
