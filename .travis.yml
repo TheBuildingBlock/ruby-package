@@ -1,0 +1,4 @@
+---
+dist: focal
+language: ruby 
+script: echo "test"
