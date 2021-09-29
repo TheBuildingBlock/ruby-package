@@ -1,4 +1,4 @@
 ---
 dist: focal
 language: ruby 
-script: echo "All packaged up"
+script: echo "All packaged up."
