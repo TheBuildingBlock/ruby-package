@@ -1,4 +1,7 @@
 ---
 dist: focal
-language: ruby 
-script: echo "All packaged up."
+language: ruby
+rvm:
+  - 2.3.1
+script:
+  - bundle exec rspec
